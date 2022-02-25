@@ -2,7 +2,7 @@
   "name": "myreads-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kevinschwert.github.io",
+  "homepage": "https://kevinpschwert.github.io",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "npm-cli": "^0.1.0",
